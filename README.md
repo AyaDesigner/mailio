@@ -46,5 +46,8 @@ The app allows you to create a QR code that contains an encoded message (right t
    ```sh
    npm start
    ```
+### Demo
+
+[Demo](https://vigilant-sammet-febf50.netlify.app)
 
 
